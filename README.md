@@ -1,8 +1,9 @@
 # Welcome!😄
-##### Hello everyone, i am furrently learning Web-development!😄
+## Hello everyone!😄 I am Siqi. 
+### I'm currently learning Web-development bootcamps in Neufische!😄
 ![avatar](https://img.freepik.com/vektoren-premium/maedchen-studieren-online-bildung-zu-hause-cartoon-vektor-illustration-desktop-computer-am-arbeitsplatz-der-schueler-der-hausaufgaben-beim-surfen-im-internet-macht-lernprozess-des-schuelers_311563-505.jpg?w=1800)
 
-##### I have learnd:
+### I have learnd:
 
 - HTML
 - CSS
