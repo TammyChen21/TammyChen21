@@ -1,7 +1,6 @@
-### Hi there 👋
 # Welcome!😄
 ##### Hello everyone, i am furrently learning Web-development!😄
-[link](https://de.freepik.com/vektoren-kostenlos/bunte-illustration-der-programmiererfunktion_5483080.htm#query=programmierung&position=15&from_view=keyword)
+![avatar](https://img.freepik.com/vektoren-premium/maedchen-studieren-online-bildung-zu-hause-cartoon-vektor-illustration-desktop-computer-am-arbeitsplatz-der-schueler-der-hausaufgaben-beim-surfen-im-internet-macht-lernprozess-des-schuelers_311563-505.jpg?w=1800)
 
 ##### I have learnd:
 
