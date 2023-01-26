@@ -1,12 +1,13 @@
 ### Hi there 👋
-# Welcome 
-##### Hello,my name is Siqi, i come from China, i live now in Henstedt-Ulzburg.
-[link](https://www.shutterstock.com/de/image-vector/three-hand-drawn-beautiful-cute-girls-625413911)
+# Welcome!😄
+##### Hello everyone, i am furrently learning Web-development!😄
+[link](https://de.freepik.com/vektoren-kostenlos/bunte-illustration-der-programmiererfunktion_5483080.htm#query=programmierung&position=15&from_view=keyword)
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| one     | three      | Here's table   |
-| two   | four       | five     |
+##### I have learnd:
+
+- HTML
+- CSS
+- Git&Github
 
 
 <!--
