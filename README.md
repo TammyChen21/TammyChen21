@@ -8,6 +8,7 @@
 - HTML
 - CSS
 - Git&Github
+- Javascript
 
 
 <!--
